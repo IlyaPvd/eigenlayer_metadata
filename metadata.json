@@ -1,7 +1,7 @@
 {
-    "name": "flipstix",
-    "website": "https://github.com/IlyaPvd",
-    "description": "Node runner, Validator on baremetal in Latvia, Kazakhstan and Russia",
-    "logo": "https://raw.githubusercontent.com/IlyaPvd/eigenlayer_metadata/main/logo.png",
-    "twitter": "https://twitter.com/ITShaman1"
+  "name": "flipstix",
+  "website": "https://github.com/IlyaPvd",
+  "description": "Node runner, Validator on baremetal in Latvia, Kazakhstan and Russia",
+  "logo": "https://raw.githubusercontent.com/IlyaPvd/eigenlayer_metadata/main/logo.png",
+  "twitter": "https://twitter.com/ITShaman1"
 }
